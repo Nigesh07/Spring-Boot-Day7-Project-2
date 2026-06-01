@@ -39,7 +39,7 @@ Welcome to SpringBoot
 ```
 
 #### Screenshot
-![Hello Endpoint](Screenshot 2026-06-01 204301.png)
+![Hello Endpoint]([Screenshot 2026-06-01 204301.png](https://github.com/Nigesh07/Spring-Boot-Day7-Project-2/blob/e58d17789c44a26b4e2eb5a6d2c320676c6f6baf/Screenshot%202026-06-01%20204301.png))
 
 ### GET /hello/{name}
 Returns a personalized greeting.
@@ -55,7 +55,7 @@ Hello, John Welcome to Spring Boot
 ```
 
 #### Screenshot
-![Hello Name Endpoint](screenshots/hello-name-endpoint.png)
+![Hello Name Endpoint]([screenshots/hello-name-endpoint.png](https://github.com/Nigesh07/Spring-Boot-Day7-Project-2/blob/e58d17789c44a26b4e2eb5a6d2c320676c6f6baf/Screenshot%202026-06-01%20204327.png))
 
 ### GET /add
 Returns the sum of two query parameters `a` and `b`.
