@@ -39,7 +39,7 @@ Welcome to SpringBoot
 ```
 
 #### Screenshot
-![Hello Endpoint](screenshots/hello-endpoint.png)
+![Hello Endpoint](Screenshot 2026-06-01 204301.png)
 
 ### GET /hello/{name}
 Returns a personalized greeting.
